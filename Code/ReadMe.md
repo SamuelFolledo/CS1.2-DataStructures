@@ -13,3 +13,7 @@
 - implement data structures including __linked lists, hash tables, stacks, queues and heaps__
 - __parse text documents__ and __store information__ in data structures
 - implement __sampling methods__ and __Markov chains on data sets__
+
+## Things I have learned
+### PAGE 1. LET'S GET STARTED
+- __[Modules](https://docs.python.org/3/tutorial/modules.html)__ - is a pattern that allows us to group methods and variables in a file and just call them by importing the file
