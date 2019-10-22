@@ -1,4 +1,5 @@
-# CS 1.2: How Data Structures Work
+# Make School's CS 1.2: How Data Structures Work
+## [__Code__ folder has my codes for Tweet Generator](https://github.com/SamuelFolledo/CS1.2-DataStructures/tree/master/Code)
 
 ## Course Description
 
